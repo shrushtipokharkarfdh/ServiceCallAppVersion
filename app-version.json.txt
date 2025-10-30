@@ -1,7 +1,8 @@
 {
-  "latestVersion": "2.1",
+  "latestVersion": "2.0",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.facadedesign.servepro&pcampaignid=web_share"
 }
+
 
 
 
